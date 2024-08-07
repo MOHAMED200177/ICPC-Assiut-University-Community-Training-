@@ -1,0 +1,19 @@
+{
+  "name": "0x0a-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Calculator.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node Calculator.js",
+    "dev": "ts-node Calculator.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
