@@ -1,0 +1,19 @@
+{
+  "name": "0x0a-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicDataTypes.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node BasicDataTypes.js",
+    "dev": "ts-node BasicDataTypes.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
